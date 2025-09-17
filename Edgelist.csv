@@ -1,7 +1,7 @@
-from,to,relation
-la12,gga20,2
-la12,ba93,2
-gga20,ba93,2
+from,to,relation  
+la12,gga20,2  
+la12,ba93,2  
+gga20,ba93,2  
 dc09,cc15,2
 la12,mmf09,0
 la12,gt07,0
@@ -43,4 +43,5 @@ ba93,cc15,1
 ss05,fbs13,0
 ss05,cc15,1
 fbs13,cc15,2
+
 
